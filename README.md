@@ -1,2 +1,4 @@
-shiftfeed
+ShiftFeed
 =========
+
+Shift Planner App
