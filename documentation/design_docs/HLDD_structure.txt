@@ -1,0 +1,23 @@
+HLD:
+	Purpose
+	Platforms
+	List of requirements
+		 - checklist for everything the app does
+	create RTM (Requirements Traceability Matrix) (excel embedded in the HLD)
+		- We'll get to know all the modules
+
+	we'll make one PSD/SDS (Program specification document/ Software design specification) for each module
+		
+	for each platform:
+		Process flow
+		Data flow
+		Detailed description
+		Scope
+		
+	Out of scope:
+		includes what is NOT handled in this version (will come in a seperate heading)
+		
+	Configuration requirements
+	Errors and errors handling + logging
+	Abbreviation
+	Glossary (like the final dictionary)
